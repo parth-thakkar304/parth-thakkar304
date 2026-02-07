@@ -30,13 +30,6 @@
 
 ---
 
-## 📌 GitHub Focus
-- Algorithm practice (DAA & DSA)  
-- Beginner-friendly Python projects  
-- Web & database fundamentals  
-
----
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-thakkar-920a08317)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parththakkar304@gmail.com)  
@@ -67,13 +60,15 @@
 ---
 
 ## 📊 GitHub Stats
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=parth-thakkar304&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parth-thakkar304&theme=radical" width="48%" />
-</p>
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-thakkar304&layout=compact&theme=radical" width="48%" />
-</p>
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=parth-thakkar304&show_icons=true&theme=radical" width="400" />
+  
+  <img src="https://streak-stats.demolab.com/?user=parth-thakkar304&theme=radical" width="400" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-thakkar304&layout=compact&theme=radical" width="400" />
+
+</div>
 
 ---
 
