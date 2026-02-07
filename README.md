@@ -17,7 +17,3 @@ Hi 👋, I'm Parth Thakkar<br>🎓 Computer Science Engineering Student<br>📘 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=parth-thakkar304&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-this is something like that make it more cool ?
